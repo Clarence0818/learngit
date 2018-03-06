@@ -1,3 +1,3 @@
-Git is a version control system.
+Git is a version coniiiiiiiiWQQ!Q!trol system.
 
-Git is free software.
+/usr/bin/bash: Q: command not found
